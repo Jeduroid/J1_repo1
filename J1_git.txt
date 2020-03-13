@@ -1,0 +1,10 @@
+ Volume in drive C is TI10653400C
+ Volume Serial Number is 4415-5794
+
+ Directory of C:\Users\ANAND GIRI\Downloads\J_feet_my_prgrams\J_git
+
+03/13/2020  04:10 PM    <DIR>          .
+03/13/2020  04:10 PM    <DIR>          ..
+03/13/2020  04:11 PM                 0 J1_git.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  83,476,582,400 bytes free
